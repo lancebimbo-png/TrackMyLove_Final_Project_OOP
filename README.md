@@ -29,23 +29,22 @@ All family members connect to the same MySQL server. When the caregiver in the P
 
 | Layer | Technology |
 |---|---|
-| Language | Java |
-| GUI | Java Swing — NetBeans GUI Builder |
-| Database | MySQL |
-| DB Access | JDBC — PreparedStatement |
-| IDE | Apache NetBeans |
-| Version Control | GitHub |
-
+| **Language** | Java (JDK 8+) |
+| **GUI** | Java Swing — NetBeans GUI Builder |
+| **Database** | MySQL |
+| **DB Access** | JDBC — PreparedStatement |
+| **IDE** | Apache NetBeans |
+| **Version Control** | GitHub |
 
 ## Database Structure
 
 | Table | Type | Description |
 |---|---|---|
-| households | Master | One family group |
-| members | Master | All family members and their roles |
-| medications | Master | Master list of all medicines |
-| medication_logs | Transaction Header | One medication session |
-| log_details | Transaction Detail | Each medicine in one session |
+| `households` | Master | One family group |
+| `members` | Master | All family members and their roles |
+| `medications` | Master | Master list of all medicines |
+| `medication_logs` | Transaction Header | One medication session |
+| `log_details` | Transaction Detail | Each medicine in one session |
 
 
 ## Project Structure
