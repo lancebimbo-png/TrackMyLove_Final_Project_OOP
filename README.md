@@ -46,11 +46,7 @@ All family members connect to the same MySQL server. When the caregiver in the P
 | `medication_logs` | Transaction Header | One medication session |
 | `log_details` | Transaction Detail | Each medicine in one session |
 
-```
 <img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/abae5907-b930-492c-a8f9-ae0bbd825ee8" />
-
-```
-
 
 ## Project Structure
 
