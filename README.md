@@ -164,7 +164,7 @@ And three medications — Metformin, Losartan, Amlodipine — with two sample lo
 
 ## Author
 
-**Lance**
+**Lance Xyzherlee A. Bimbo**
 Final Project — Object-Oriented Programming
 TrackMyLove — Built for Filipino OFW families
 
