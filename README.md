@@ -3,13 +3,11 @@
 
 TrackMyLove is a Java Swing desktop application built for Filipino families where a caregiver at home needs to track and record daily medication for an elderly or sick relative, while a family member abroad — like an OFW parent — can monitor everything in real time through a shared database.
 
----
 
 ## The Problem
 
 Many OFW families have elderly relatives who need daily medication at home. The family member abroad has no way to verify if medicine was given, what time it was taken, or if there were side effects. Text messages and calls leave no permanent record. TrackMyLove solves this by giving the whole family one shared database where every medication session is logged permanently.
 
----
 
 ## Features
 
@@ -21,13 +19,11 @@ Many OFW families have elderly relatives who need daily medication at home. The 
 - Search across members, medications, and logs
 - Real-time shared access for all family members on the same server
 
----
 
 ## How the Family Sharing Works
 
 All family members connect to the same MySQL server. When the caregiver in the Philippines logs a medication session, the family member abroad opens TML on their device, connects to the same server, and sees the exact same data. No sync needed. One database, one family truth.
 
----
 
 ## Tech Stack
 
@@ -40,7 +36,6 @@ All family members connect to the same MySQL server. When the caregiver in the P
 | IDE | Apache NetBeans |
 | Version Control | GitHub |
 
----
 
 ## Database Structure
 
@@ -52,7 +47,6 @@ All family members connect to the same MySQL server. When the caregiver in the P
 | medication_logs | Transaction Header | One medication session |
 | log_details | Transaction Detail | Each medicine in one session |
 
----
 
 ## Project Structure
 
@@ -85,7 +79,6 @@ TrackMyLove/
     └── tml_schema.sql        — Full SQL script
 ```
 
----
 
 ## OOP Principles Applied
 
@@ -137,7 +130,6 @@ Press `F6` in NetBeans. The login screen opens first.
 | Full Name | Lance Bimbo |
 | Password | lance123 |
 
----
 
 ## Screenshots
 
@@ -152,7 +144,6 @@ Press `F6` in NetBeans. The login screen opens first.
 | Give Meds | Create a new medication log session |
 | Log Details | Add individual medicines to a log session |
 
----
 
 ## Sample Data Included
 
@@ -164,7 +155,6 @@ The SQL script includes one household — the Bimbo Family — with three member
 
 And three medications — Metformin, Losartan, Amlodipine — with two sample log sessions.
 
----
 
 ## Author
 
@@ -172,6 +162,5 @@ And three medications — Metformin, Losartan, Amlodipine — with two sample lo
 Final Project — Object-Oriented Programming
 TrackMyLove — Built for Filipino OFW families
 
----
 
 *Every log entry in TrackMyLove is a record of care. The name says it all — Track My Love.*
