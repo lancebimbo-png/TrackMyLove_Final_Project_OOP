@@ -133,7 +133,13 @@ Press `F6` in NetBeans. The login screen opens first.
 
 ## Screenshots
 
-> Add your screenshots here after taking them from the running app.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b612edc5-ba32-4049-8c10-ba5d98c91f5c" />
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/ac845238-bf4c-478c-8053-e3fa696c5488" />
+<img width="1906" height="1068" alt="image" src="https://github.com/user-attachments/assets/d61e8db8-4fd5-4cf1-bd24-96437a21375b" />
+<img width="1919" height="1069" alt="image" src="https://github.com/user-attachments/assets/c415c726-4210-4c2e-befa-b31fe03dc1e8" />
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/133e4348-8918-4040-924e-09ea49ea03a6" />
+
+
 
 | Screen | Description |
 |---|---|
