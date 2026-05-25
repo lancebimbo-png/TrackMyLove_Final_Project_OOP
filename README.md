@@ -47,56 +47,7 @@ All family members connect to the same MySQL server. When the caregiver in the P
 | `log_details` | Transaction Detail | Each medicine in one session |
 
 ```
-households
-├── id (PK)
-├── family_name
-├── address
-└── created_at
-       │
-       │ 1
-       │
-       ▼ many
-members
-├── id (PK)
-├── household_id (FK → households.id)
-├── full_name
-├── role (patient / caregiver / viewer)
-├── location
-├── password_hash
-└── created_at
-       │                    │
-       │ 1 (as patient)     │ 1 (as given_by)
-       │                    │
-       ▼ many               ▼ many
-medication_logs ◄───────────┘
-├── id (PK)
-├── patient_id (FK → members.id)
-├── given_by_id (FK → members.id)
-├── log_date
-├── notes
-└── logged_at
-       │
-       │ 1
-       │
-       ▼ many
-log_details
-├── id (PK)
-├── log_id (FK → medication_logs.id)
-├── medication_id (FK → medications.id)
-├── time_given
-├── was_taken (0 or 1)
-└── side_effects
-       ▲
-       │ many
-       │
-       │ 1
-medications
-├── id (PK)
-├── name
-├── dosage
-├── unit (mg / ml / tablet ...)
-├── purpose
-└── notes
+
 ```
 
 
