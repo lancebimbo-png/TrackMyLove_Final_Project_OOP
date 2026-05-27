@@ -203,13 +203,9 @@ Press `F6` in NetBeans. The login screen opens first.
 |---|---|
 | Login | <img width="1919" height="1079" alt="Screenshot 2026-05-26 051728" src="https://github.com/user-attachments/assets/d89ff06a-787c-447a-839f-d0de8248f2d0" />
 | Dashboard | <img width="1919" height="1077" alt="Screenshot 2026-05-26 051950" src="https://github.com/user-attachments/assets/e74dcd5e-a33b-45d2-8a2b-f7fa725e8584" />
-
 | Members | <img width="1906" height="1068" alt="Screenshot 2026-05-26 052002" src="https://github.com/user-attachments/assets/d21cedbf-98da-44b5-baf0-192715d50f51" />
-
 | Medications | <img width="1919" height="1069" alt="Screenshot 2026-05-26 052013" src="https://github.com/user-attachments/assets/4448f28f-4fa4-4fa2-a4b9-47ff98a086bb" />
-
 | Give Meds | <img width="1919" height="1078" alt="Screenshot 2026-05-26 052024" src="https://github.com/user-attachments/assets/53212f78-f594-47c0-a323-5ba1d79305b9" />
-
 | Log Details | <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4294ac10-81ab-4cd1-9cc8-e57169a4cd7d" />
 
 
@@ -235,5 +231,3 @@ Final Project — Object-Oriented Programming
 TrackMyLove — Built for Filipino OFW families
 
 ---
-
-*Every log entry in TrackMyLove is a record of care. The name says it all — Track My Love.*
