@@ -217,7 +217,7 @@ Press `F6` in NetBeans. The login screen opens first.
 
 ## Demo Video
 
-https://docs.google.com/videos/d/1adHDHjRQB75ElS60rVY9QQeYB8vhWqVcnG8Jkw3KhrI/edit?usp=sharing
+[https://docs.google.com/videos/d/1adHDHjRQB75ElS60rVY9QQeYB8vhWqVcnG8Jkw3KhrI/edit?usp=sharing](https://drive.google.com/file/d/1vvz-3nLO79dT6eT2K_2Jqtwl_2QP--SF/view?usp=sharing)
 ---
 
 ## 🚀 Future Roadmap
