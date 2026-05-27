@@ -106,7 +106,8 @@ medications
 ```
 
 ### Entity-Relationship Diagram
-<img width="946" height="657" alt="eer_tml" src="https://github.com/user-attachments/assets/387c307b-26c1-4f23-9212-2cca3cf6cf88" />
+<<img width="946" height="657" alt="eer_tml" src="https://github.com/user-attachments/assets/55dedda9-a6df-47c0-9cb9-66fd54663c4d" />
+ />
 
 
 ---
